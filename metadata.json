@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text Toolkit",
+  "description": "A versatile web app using the Gemini API to summarize text with length and style controls, and a Humanizer tool to make text sound more natural.",
+  "requestFramePermissions": []
+}
